@@ -7,7 +7,7 @@ Running a container from this image will print the following:
 * The first 50 members of the Fibonacci sequence.
 
 
-###What does the image contain:
+### What does the image contain:
 * The image is based on a bash:4.4 Image which uses a Linux distribution - alpine (link https://hub.docker.com/_/bash)
 * Bash script that prints the first 50 digits in Fibonacci
 
